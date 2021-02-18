@@ -22,6 +22,8 @@ erl_crash.dump
 # Ignore package tarball (built via "mix hex.build").
 primacy-*.tar
 
-
 # Temporary files for e.g. tests
 /tmp
+
+# vim swp files
+*.sw?
