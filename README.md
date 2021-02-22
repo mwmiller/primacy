@@ -1,6 +1,6 @@
 # Primacy
 
-**TODO: Add description**
+Check for and generate prime numbers
 
 ## Installation
 
