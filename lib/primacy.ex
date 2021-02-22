@@ -31,7 +31,7 @@ defmodule Primacy do
   Options:
 
   - `count`: how long a list to produce? (default: 1)
-  - `dir `:below`, `:above`, `:around` (default: `:around`)
+  - `dir`: `:below`, `:above`, `:around` (default: `:around`)
 
   ## Examples
 
