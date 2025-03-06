@@ -26,7 +26,7 @@ defmodule Primacy.MixProject do
 
   defp description do
     """
-    Primacy - primess checking and generation
+    Primacy - prime checking and generation
     """
   end
 
